@@ -14,7 +14,7 @@
     "express": "^4.17.1",
     "install": "^0.12.2",
     "mongodb": "^3.2.7",
-    "mongoose": "^5.6.2",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
     "npm": "^6.9.2"
   }
